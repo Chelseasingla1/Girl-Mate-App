@@ -4,9 +4,9 @@ GirlMate is a supportive and inclusive platform designed to empower users with m
 
 ### Video
 
-[![Video Demo](https://img.youtube.com/vi/wfKsCCV3rs4/0.jpg)](https://youtu.be/wfKsCCV3rs4)
+[![Video Demo](https://img.youtube.com/vi/7IMVfs7RSpM/0.jpg)](https://youtu.be/7IMVfs7RSpM)
 
-[Watch the demo video](https://youtu.be/wfKsCCV3rs4) 
+[Watch the demo video](https://youtu.be/7IMVfs7RSpM) 
 
 ## 🌟 Features
 
