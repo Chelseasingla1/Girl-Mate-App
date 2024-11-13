@@ -2,6 +2,12 @@
 
 GirlMate is a supportive and inclusive platform designed to empower users with menstrual health tracking, wellness insights, and community support. Built with a focus on inclusivity, GirlMate caters to adolescent girls, women in their 40s and 50s, and transgender and non-binary individuals. The app offers personalized health recommendations, symptom tracking, expert guidance, and a community space where users can connect, share, and support each other.
 
+### Video
+
+[![Video Demo](https://img.youtube.com/vi/wfKsCCV3rs4/0.jpg)](https://youtu.be/wfKsCCV3rs4)
+
+[Watch the demo video](https://youtu.be/wfKsCCV3rs4) 
+
 ## 🌟 Features
 
 ### 1. **Period & Symptom Tracking**
