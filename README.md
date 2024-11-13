@@ -108,17 +108,3 @@ The backend server should be running at `http://localhost:5000`.
 ## 🌈 How This Project Contributes to Gender Equality
 
 GirlMate fosters a supportive, judgment-free space where users of all gender identities can find information, support, and community around menstrual health. By addressing menstruation inclusively and promoting education, GirlMate empowers users with knowledge, awareness, and support, contributing to the global effort toward gender equality and removing stigma associated with menstruation.
-
-## 🤝 Contributing
-
-If you’d like to contribute to GirlMate, please feel free to fork the repo, make changes, and submit a pull request. All contributions that align with our mission of inclusivity and support are welcome!
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## ❤️ Acknowledgments
-
-- Thanks to Google Dialogflow for making it easier to build natural-language chatbots.
-- Special thanks to the community of users who inspired us to create an inclusive space for menstrual health.
-
