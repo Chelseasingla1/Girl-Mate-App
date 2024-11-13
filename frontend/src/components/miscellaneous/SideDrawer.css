@@ -1,0 +1,65 @@
+/* General Button Styling */
+.custom-button {
+    padding: 8px 16px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  /* Color Variants */
+  .custom-button.blue {
+    background-color: #4285f4;
+    color: #ffffff;
+  }
+  
+  .custom-button.teal {
+    background-color: #1abc9c;
+    color: #ffffff;
+  }
+  
+  .custom-button.purple {
+    background-color: #9b59b6;
+    color: #ffffff;
+  }
+  
+  /* Hover and Focus States */
+  .custom-button.blue:hover,
+  .custom-button.teal:hover,
+  .custom-button.purple:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+  }
+  
+  .custom-button:active {
+    transform: translateY(0);
+    opacity: 0.8;
+  }
+  
+  .custom-button:focus {
+    outline: none;
+    box-shadow: 0px 0px 4px rgba(66, 133, 244, 0.5);
+  }
+  
+  /* Drawer Button */
+  .drawer-button {
+    background-color: #ffe6e9;
+    color: #e91e63;
+    border: 2px solid #f8a5c2;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .drawer-button:hover {
+    background-color: #fcd1d9;
+  }
+  
+  .drawer-button:focus {
+    outline: none;
+    box-shadow: 0px 0px 4px rgba(249, 89, 142, 0.5);
+  }
+  
