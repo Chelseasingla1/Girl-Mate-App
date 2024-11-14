@@ -1,6 +1,3 @@
-Here's a styled version of the **GirlMate** README, incorporating markdown formatting to enhance visual appeal and readability:
-
----
 
 # 🌸 GirlMate: Menstrual Health and Wellness App 🌸
 
